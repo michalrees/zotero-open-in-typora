@@ -1,0 +1,8 @@
+{
+  "name": "zotero-open-in-typora",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Open Zotero child notes in Typora with Better Notes synchronization",
+  "scripts": { "test": "node --test test.cjs", "build": "python3 build.py" },
+  "engines": { "node": ">=18" }
+}
