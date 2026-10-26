@@ -4,5 +4,5 @@
   "version": "1.0.0",
   "description": "右键 Zotero 子笔记，用 Typora 编辑，并通过 Better Notes 双向同步。",
   "author": "Michalrees (Codex/GPT)",
-  "applications": {"zotero": {"id": "open-notes-in-typora@local", "strict_min_version": "10.0", "strict_max_version": "10.0.*"}}
+  "applications": {"zotero": {"id": "open-notes-in-typora@local", "update_url": "https://raw.githubusercontent.com/michalrees/zotero-open-in-typora/main/updates.json", "strict_min_version": "10.0", "strict_max_version": "10.0.*"}}
 }
