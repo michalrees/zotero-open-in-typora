@@ -55,4 +55,4 @@ python3 build.py
 
 ## 修改来源
 
-本项目由 Codex/GPT 编写，Git 显示名按项目所有者约定使用 `Michalrees`，提交正文使用 `修改来自Michalrees` 记录来源。
+创作来自GPT
